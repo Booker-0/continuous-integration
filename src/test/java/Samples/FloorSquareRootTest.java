@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class FloorSquareRootTest {
     @Test
     public void testA() {
-        assertEquals(3, FloorSquareRoot.floorSqrt(11));
+        assertEquals(4, FloorSquareRoot.floorSqrt(11));
     }
 
     @Test
